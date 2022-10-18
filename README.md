@@ -1,1 +1,1 @@
-# ReactJS-eCommerceDemo
+# ReactJS-eCommerceDemo with Bootstrap
